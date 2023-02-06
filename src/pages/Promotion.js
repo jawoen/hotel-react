@@ -18,7 +18,6 @@ const Promotion = () => {
                 </div>
                 <span>VIEW</span>
             </div>
-            
         </div>
     );
 };
